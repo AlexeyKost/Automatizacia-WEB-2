@@ -7,6 +7,7 @@
     "eslint": "eslint",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "zz",
+  "repository": "https://github.com/AlexeyKost/Automatizacia-WEB-2",
   "license": "ISC"
 }
