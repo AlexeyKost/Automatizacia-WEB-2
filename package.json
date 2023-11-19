@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "eslint": "eslint",
+    "Prettier - Code formatter": "Prettier - Code formatter",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "zz",
